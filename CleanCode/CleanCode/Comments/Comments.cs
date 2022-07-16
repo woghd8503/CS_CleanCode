@@ -15,6 +15,14 @@ namespace CleanCode.Comments
         }
 
         // Returns list of customers in a country.
+        public List<Customer> GetCustomers(int countryCode)
+        {
+            //TODO: We need to get rid of abcd once we revisit this method. Currently, it's
+            // creating a coupling between x and y and because of that we're not able to do
+            // xyz.
+
+            throw new NotImplementedException();
+        }
 
     }
 }
