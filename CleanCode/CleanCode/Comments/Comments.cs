@@ -23,7 +23,13 @@ namespace CleanCode.Comments
 
             throw new NotImplementedException();
         }
+        
+        public void SubmitOrder(Order order)
+        {
+            // Save order to the database
+            _dbContext.Orders.Add(order);
 
+        }
 
 
 
