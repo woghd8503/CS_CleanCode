@@ -32,7 +32,7 @@ namespace CleanCode.Comments
 
             // Send an email to the customer
             var client = new SmtpClient();
-
+            var message = new MailMessage("noreply@site.com", order)
         }
 
 
