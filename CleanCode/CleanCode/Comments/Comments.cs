@@ -28,6 +28,10 @@ namespace CleanCode.Comments
         {
             // Save order to the database
             _dbContext.Orders.Add(order);
+            _dbContext.SaveChanges();
+
+            // Send an email to the customer
+            var client = new SmtpClient();
 
         }
 
