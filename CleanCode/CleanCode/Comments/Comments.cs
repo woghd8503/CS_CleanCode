@@ -38,6 +38,6 @@ namespace CleanCode.Comments
         }
     }
 
-    public class DbContext
+    public class DbContext { }
 
 }
