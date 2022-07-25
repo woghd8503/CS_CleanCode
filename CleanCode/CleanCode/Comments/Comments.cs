@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Net.Mail;
+﻿using System.Net.Mail;
 
 namespace CleanCode.Comments
 {
@@ -23,7 +21,7 @@ namespace CleanCode.Comments
 
             throw new NotImplementedException();
         }
-        
+
         public void SubmitOrder(Order order)
         {
             // Save order to the database
