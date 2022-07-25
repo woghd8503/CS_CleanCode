@@ -36,6 +36,24 @@ namespace CleanCode.Comments
         }
     }
 
-    public class DbContext { }
+    public class DbContext 
+    {
+        public DbSet<Order> Orders { get; set; }
+
+        public void SaveChanges()
+        {
+
+
+        }
+    }
+    
+    public class DbSet<T>
+    {
+        public void Add(Order order)
+        {
+
+        }
+    }
+
 
 }
