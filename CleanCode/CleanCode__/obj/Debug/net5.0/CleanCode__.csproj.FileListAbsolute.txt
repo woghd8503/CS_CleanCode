@@ -1,0 +1,5 @@
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.csproj.AssemblyReference.cache
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.AssemblyInfoInputs.cache
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.AssemblyInfo.cs
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.csproj.CoreCompileInputs.cache
