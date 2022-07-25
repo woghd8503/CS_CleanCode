@@ -39,4 +39,5 @@ namespace CleanCode.Comments
     }
 
     public class DbContext
+
 }
