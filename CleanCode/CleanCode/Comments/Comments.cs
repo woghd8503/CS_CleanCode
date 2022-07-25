@@ -33,14 +33,10 @@ namespace CleanCode.Comments
             // Send an email to the customer
             var client = new SmtpClient();
             var message = new MailMessage("noreply@site.com", order.Customer.Email, "Your order was successfully placed.", ".");
+            client.Send(message);
+
         }
-
-
-
-
-
-
-
-
     }
+
+    public class DbContext
 }
