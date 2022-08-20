@@ -3,3 +3,14 @@ D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode
 D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.AssemblyInfoInputs.cache
 D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.AssemblyInfo.cs
 D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.csproj.CoreCompileInputs.cache
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\bin\Debug\net5.0\CleanCode__.exe
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\bin\Debug\net5.0\CleanCode__.deps.json
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\bin\Debug\net5.0\CleanCode__.runtimeconfig.json
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\bin\Debug\net5.0\CleanCode__.runtimeconfig.dev.json
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\bin\Debug\net5.0\CleanCode__.dll
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\bin\Debug\net5.0\ref\CleanCode__.dll
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\bin\Debug\net5.0\CleanCode__.pdb
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.dll
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\ref\CleanCode__.dll
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.pdb
+D:\01.Coding_study\CS_CleanCode\CleanCode\CleanCode__\obj\Debug\net5.0\CleanCode__.genruntimeconfig.cache
